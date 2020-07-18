@@ -9,3 +9,10 @@
 + [Self-Attentive Sequential Recommendation](https://arxiv.org/abs/1808.09781)
 + [Neural Collaborative Filtering](https://arxiv.org/abs/1708.05031)
 </details>
+
+<details>
+  
+ <summary>NLP</summary>
+ 
+ + [Attention Is All You Need (Transformer)](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
+</details>
