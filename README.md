@@ -16,4 +16,5 @@
  
  + [Attention Is All You Need (Transformer)](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
  + [Attention In Natural Language Processing](https://arxiv.org/pdf/1902.02181.pdf)
+ + [A Structured Self-Attentive Sentence Embedding](https://arxiv.org/pdf/1703.03130.pdf)
 </details>
